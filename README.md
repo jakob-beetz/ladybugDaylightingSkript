@@ -1,4 +1,4 @@
-# Paramatric daylighting study
+# Parametric daylighting study
 
 ![Comfort zones example](img/comfort_S001.png)
 ![Example of a heatmap](img/heatmap_S001.png)
