@@ -1,7 +1,9 @@
 # Paramatric daylighting study
 
-![img/comfort_S001.png]
-![img/heatmap_S001.png]
+![Comfort zones example](img/comfort_S001.png)
+![Example of a heatmap](img/heatmap_S001.png)
+
+
 
 
 Quick script to run daylighting analysis for a parametric study. 
